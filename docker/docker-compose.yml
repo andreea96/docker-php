@@ -1,0 +1,23 @@
+version: '2'
+services:
+  mysql:
+    image: mysql
+    ports:
+      - '5433:5432'
+  php:
+    build: php-fpm
+    volumes:
+      - ../apps/my-project/:/var/www/symfony:cached
+      - ./php-fpm/php.ini:/usr/local/etc/php/php.ini
+    depends_on:
+      - mysql
+  nginx:
+    build: nginx
+    ports:
+      - '8080:80'
+    depends_on:
+      - php
+    volumes_from:
+      - php
+    volumes:
+      - ./logs/nginx/:/var/log/nginx:cached

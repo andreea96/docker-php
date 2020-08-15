@@ -1,0 +1,116 @@
+[15-Aug-2020 07:11:56 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:11:56 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /favicon.ico" (from "http://localhost:8080/")" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:12:01 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:15:20 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:15:44 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:23:52 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:26:41 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:30:44 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:31:35 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:31:56 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:38:33 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:38:36 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:41:02 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:41:06 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:52:40 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:52:41 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:52:41 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:52:41 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:53:19 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:53:27 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 07:53:47 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:11:57 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:13:08 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:20:12 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:20:12 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /favicon.ico" (from "http://172.17.40.113:8080/")" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:23:49 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:23:55 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:24:32 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:24:46 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:24:46 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:24:47 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:24:47 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:24:47 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:24:47 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:35:15 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:38:20 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:42:07 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:46:19 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:48:30 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:50:05 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:50:26 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:50:41 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:53:22 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:54:21 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:55:02 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 08:59:35 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:23:45 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:23:54 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:24:51 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:25:02 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:25:03 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:26:35 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:29:45 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:37:00 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:37:17 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:37:25 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:42:38 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
+[15-Aug-2020 09:42:38 Asia/Riyadh] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at /var/www/symfony/vendor/symfony/http-kernel/EventListener/RouterListener.php line 136
+
